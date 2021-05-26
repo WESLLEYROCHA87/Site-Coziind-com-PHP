@@ -43,8 +43,8 @@
                         </div>
                     </div>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Menu Colapso">
-          <span class="navbar-toggler-icon text-light"></span>
-        </button>
+                        <span class="navbar-toggler-icon text-light"></span>
+                    </button>
                 </div>
                 <div class="container my-1">
                     <div class="row">
