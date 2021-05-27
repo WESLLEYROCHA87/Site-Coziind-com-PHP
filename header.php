@@ -37,8 +37,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col">
-                            <a href="#" class="navbar-brand">
-                                <img src="img/Logos/LogoCoziindCorBranco.png" height="120" class="d-inline-block align-top" alt="" title="Logo Coziind">
+                            <a href="index.php" class="navbar-brand">
+                                <img src="img/Logos/LogoCoziindCorBranco.png" height="120" class="d-inline-block align-top" alt="" title="Voltar para página inícial">
                             </a>
                         </div>
                     </div>
