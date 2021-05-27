@@ -1,5 +1,5 @@
-<!-- Inclusão do header pelo PHP-->
-<?php include 'header.php' ?>
+<!-- Inclusão de links externos-->
+<?php include 'header.php'; ?>
 
 <!-- Vantagens para Empresa-->
 <div class="container-fluid">
@@ -88,5 +88,5 @@
         </section>
     </div>
 </div>
-<!-- Inclusão do Footer pelo PHP-->
-<?php include 'footer.php' ?>
+<!-- Inclusão de links externos-->
+<?php include 'footer.php'; ?>
