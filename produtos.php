@@ -44,22 +44,24 @@
                                                 <table class="table table-sm table-hover table-bordered">
                                                     <thead>
                                                         <tr>
-                                                            <th scope="col" class="text-center">#</th>
+                                                            <th scope="col" class="text-center">Cod:</th>
                                                             <th scope="col" class="text-center">Pregão:</th>
                                                             <th scope="col" class="text-center">UASG:</th>
                                                             <th scope="col" class="text-center">Item:</th>
                                                             <th scope="col" class="text-center">Modelo:</th>
+                                                            <th scope="col" class="text-center">Qtde:</th>
                                                             <th scope="col" class="text-center">Valor Unitário:</th>
                                                         </tr>
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <th> <?php echo $item['id']; ?> </th>
-                                                            <th> <?php echo $item['Pregao']; ?> </th>
-                                                            <th> <?php echo $item['UASG']; ?> </th>
-                                                            <th> <?php echo $item['Item']; ?> </th>
-                                                            <th> <a href="<?php echo $item['urlCatalogo']; ?>"><?php echo $item['Modelo']; ?></a></th>
-                                                            <th> <?php echo $item['ValorUnitário']; ?> </th>
+                                                            <th class="text-center"> <?php echo $item['id']; ?> </th>
+                                                            <th class="text-center"> <?php echo $item['Pregao']; ?> </th>
+                                                            <th class="text-center"> <?php echo $item['UASG']; ?> </th>
+                                                            <th class="text-center"> <?php echo $item['Item']; ?> </th>
+                                                            <th class="text-center"> <a href="<?php echo $item['urlCatalogo']; ?>"><?php echo $item['Modelo']; ?></a></th>
+                                                            <th class="text-center"> <?php echo $item['qtde']; ?> </th>
+                                                            <th class="text-center"> <?php echo $item['ValorUnitário']; ?> </th>
                                                         </tr>
                                                     </tbody>
                                                 </table>

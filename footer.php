@@ -21,7 +21,7 @@
      <div class="row">
          <div class="col-md-12">
              <p class="text-center text-light my-2">Desenvolvido por <a class="text-light" href="https://www.linkedin.com/in/weslley-rocha/" target="_blank"> Weslley Rocha</a>&#174;
-                 <?php echo  date("Y", time()); ?>
+                 <?php echo date("Y", time()); ?>
              </p>
          </div>
      </div>

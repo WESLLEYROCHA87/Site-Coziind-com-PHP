@@ -3,7 +3,7 @@
 $produtos = array(
     array(
         "NomeProduto" => "Lava Louça - Prática Klimaquip",
-        "Title" => "Freezer Vertical",
+        "Title" => "Lava Louça",
         "data-target" => '#ModalLavaLouca',
         'id_modal' => 'ModalLavaLouca',
         "id" => "17",
@@ -13,6 +13,7 @@ $produtos = array(
         "Modelo" => "PRCOP-504",
         "imgProduto" => "img/ImgProdutos/PRCOP_504.jpg",
         "urlCatalogo" => "img/CatalogoProdutos/PRCOP_504.pdf",
+        "qtde" => "49",
         "ValorUnitário" => "R$ 9.900,00"
     ),
     array(
@@ -27,7 +28,24 @@ $produtos = array(
         "Modelo" => "DB-25HD-N",
         "imgProduto" => "img/ImgProdutos/DB-25HD-N.jpg",
         "urlCatalogo" => "img/CatalogoProdutos/DB-25HD-N.pdf",
+        "qtde" => "24",
         "ValorUnitário" => "R$ 6.560,00"
+    ),
+
+    array(
+        "NomeProduto" => "Descascador + Caixa - Skymsen",
+        "Title" => "Descascador com Caixa Coletora",
+        "data-target" => '#ModalDescascadorCC-25HD',
+        'id_modal' => 'ModalDescascadorCC-25HD',
+        "id" => "32",
+        "Pregao" => "14/2020",
+        "UASG" => "160186",
+        "Item" => "49",
+        "Modelo" => "DB-25HD-N + CC-25HD",
+        "imgProduto" => "img/ImgProdutos/DB-25HD-N + CC-25HD.jpg",
+        "urlCatalogo" => "img/CatalogoProdutos/DB-25HD-N.pdf",
+        "qtde" => "13",
+        "ValorUnitário" => "R$ 7.575,00"
     ),
 
     array(
@@ -42,6 +60,7 @@ $produtos = array(
         "Modelo" => "3 PLANOS",
         "imgProduto" => "img/ImgProdutos/CARRO 3 PLANOS.jpg",
         "urlCatalogo" => "img/CatalogoProdutos/CAT.ITEM 35 - CARRO INOX 3P.pdf",
+        "qtde" => "42",
         "ValorUnitário" => "R$ 375,00"
     ),
     array(
@@ -56,6 +75,7 @@ $produtos = array(
         "Modelo" => "GPC-57-BR",
         "imgProduto" => "img/ImgProdutos/GPC-57-BR.png",
         "urlCatalogo" => "img/CatalogoProdutos/GPC-57-BR.pdf",
+        "qtde" => "20",
         "ValorUnitário" => "R$ 2.665,00"
     ),
 
@@ -71,6 +91,7 @@ $produtos = array(
         "Modelo" => "GHBS-510",
         "imgProduto" => "img/ImgProdutos/GHBS-510.png",
         "urlCatalogo" => "img/CatalogoProdutos/GHBS-510.pdf",
+        "qtde" => "44",
         "ValorUnitário" => "R$ 2.085,00"
     ),
 
