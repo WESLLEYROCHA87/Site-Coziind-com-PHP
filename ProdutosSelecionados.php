@@ -1,20 +1,23 @@
 <?php
 
 $produtos = array(
-    array(
+    'LavaLouca' => array(
         "NomeProduto" => "Lava Louça - Prática Klimaquip",
         "Title" => "Lava Louça",
         "data-target" => '#ModalLavaLouca',
         'id_modal' => 'ModalLavaLouca',
-        "id" => "17",
-        "Pregao" => "6/2020",
-        "UASG" => "160120",
-        "Item" => "49",
-        "Modelo" => "PRCOP-504",
-        "imgProduto" => "img/ImgProdutos/PRCOP_504.jpg",
-        "urlCatalogo" => "img/CatalogoProdutos/PRCOP_504.pdf",
-        "qtde" => "49",
-        "ValorUnitário" => "R$ 9.900,00"
+
+        'DadosAta' => array(
+            "id" => "17",
+            "Pregao" => "6/2020",
+            "UASG" => "160120",
+            "Item" => "49",
+            "Modelo" => "PRCOP-504",
+            "imgProduto" => "img/ImgProdutos/PRCOP_504.jpg",
+            "urlCatalogo" => "img/CatalogoProdutos/PRCOP_504.pdf",
+            "qtde" => "49",
+            "ValorUnitário" => "R$ 9.900,00"
+        )
     ),
     array(
         "NomeProduto" => "Descascador - Skymsen",
