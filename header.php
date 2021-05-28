@@ -1,4 +1,5 @@
 <!-- Site desenvolvido por Weslley Rocha -->
+<!-- Versão 2 - Com PHP -->
 <!DOCTYPE html>
 <html lang="PT-BR">
 
