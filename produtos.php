@@ -13,7 +13,7 @@
                 <p class="text-justify pPersonal py-4"> O carona no processo de licitação é um órgão que antes de proceder à contratação direta sem licitação ou a licitação verifica já possuir, em outro órgão público, da mesma esfera ou de outra, o produto desejado em condições de vantagem
                     de oferta sobre o mercado já comprovadas.</p>
                 <p class="text-justify pPersonal py-4"><strong>A utilização do Sistema de Registro de Preços importa uma série de vantagens para a Administração Pública e a possibilidade do “carona” é uma forma inteligente e vantajosa para ser utilizada pelos entes públicos.</strong></p>
-                <h1 class="text-center mt-3 CorFontPersonal"> Produtos Registrados em Atas</h1>
+                <h1 class="text-center mt-3 CorFontPersonal"> Produtos Registrado em Atas</h1>
                 <span class="underline mb-5"></span>
             </header>
             <div class="row">
