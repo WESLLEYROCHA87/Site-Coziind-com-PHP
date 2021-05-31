@@ -46,14 +46,12 @@ $itens = array(
 <?php
 
 while (key($valor) !== null) {
-    global $num;
-    $num = current($valor);
+    echo " " . current($valor);
     next($valor);
 };
+
 ?>
 
-
-<?php echo '<br><hr> Num: ' . $num; ?>
 
 <hr>
 <h4>Tabela:</h4>
@@ -69,15 +67,10 @@ while (key($valor) !== null) {
     <tbody>
         <tr>
             <?php while (key($valor) !== null) {
-                global $num;
-                $num = current($valor); ?>
-
-                <td><?php echo $num ?></td>
-
-            <?php next($valor);
-            }; ?>
-
-
+                echo current($valor);
+                next($valor);
+            };
+            ?>
         </tr>
     </tbody>
 </table>
