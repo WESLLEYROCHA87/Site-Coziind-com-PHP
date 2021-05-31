@@ -3,7 +3,7 @@
 $produtos = array(
     'LavaLouca' => array(
         "NomeProduto" => "Lava Louça - Prática Klimaquip",
-        "Title" => "Lava Louça",
+        "Title" => "LavaLouça",
         "data-target" => '#ModalLavaLouca',
         'id_modal' => 'ModalLavaLouca',
 
